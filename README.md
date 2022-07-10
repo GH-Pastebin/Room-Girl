@@ -1,7 +1,7 @@
 (ROOMガール) - RoomGirl
 --
 
-![Logo](https://i.imgur.com/l39LYIv.png")
+![Logo](https://i.imgur.com/9NDY3NH.png")
 ---
 
 ![Paypal](https://i.imgur.com/3V57ymK.png") [`Donate, Help & Support`](https://paypal.me/PastebinSupport?locale.x=en_US)
