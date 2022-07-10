@@ -8,7 +8,7 @@
 --
 
 ---
-**[Download]** 
+**[Download Trial]** 
 --
 - [`BetterRepack RoomGirl RO.1`](https://betterpaste.me/?5e5501f584f1c4fa#9NtshFZVasjb4ZzLtih2HtiQ5sHYsrFB6iaETuWvFzGp)
 
