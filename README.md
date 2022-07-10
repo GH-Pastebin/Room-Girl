@@ -25,7 +25,7 @@
 ---
 **[English Translation]**
 --
-- [`RoomGirl English_Launcher_ᴠ3.3.0.0`](https://github.com/IllusionMods/IllusionLaunchers)
+- [`RoomGirl English_Launcher_ᴠ3.3.0.`](https://github.com/IllusionMods/IllusionLaunchers)
 - [`XUnity.AutoTranslator-BepIn-5x-5.1.0/IL2CPP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 ---
