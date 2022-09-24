@@ -31,7 +31,7 @@
 ---
 **[Recommended Mod Plugins]**
 --
-- [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_ᴠ5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
