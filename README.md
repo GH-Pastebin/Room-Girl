@@ -23,6 +23,11 @@
 - [`Illusion`](http://www.illusion.jp/preview/roomgirl/)
 
 ---
+**[Latest Game Update]**
+--
+- [`Roomgirl_02_plus`](https://mega.nz/file/weQFXZgI#JoEfBq5tB-9uWO0N6HF-ac6vkb2thtAEQflpqysPXRc) - `(09/29/2022)`
+
+---
 **[English Translation]**
 --
 - [`RoomGirl English_Launcher_ᴠ3.3.0.`](https://github.com/IllusionMods/IllusionLaunchers)
