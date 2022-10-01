@@ -37,6 +37,3 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx 6.0.0-Pre.1 `](https://github.com/BepInEx/BepInEx/releases)
-- [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-
