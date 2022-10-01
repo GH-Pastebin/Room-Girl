@@ -30,14 +30,13 @@
 ---
 **[English Translation]**
 --
-- [`RoomGirl English_Launcher_ᴠ3.3.0.`](https://github.com/IllusionMods/IllusionLaunchers)
-- [`XUnity.AutoTranslator-BepIn-5x-5.1.0/IL2CPP`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`RoomGirl English_Launcher_ᴠ3.3.0.`](https://discord.com/channels/446784086539763712/993990510018568272/1025098270172774470)
+- [`XUnity.AutoTranslator-BepInEx-IL2CPP-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 ---
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx 6.0.0-Pre.1 `](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
