@@ -29,8 +29,12 @@
 - [`XUnity.AutoTranslator-BepInEx-IL2CPP-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 ---
+**[Female & Male Uncensor Mod]**
+--
+- [`RoomGirl_Uncensor`](https://mega.nz/file/RJl1WYKZ#FSG8ZFWlJzMuuDA3VQwMktMNT5kPIyPqTwjP9kBP_Ic)
+
+---
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx 6.0.0-Pre.1`](https://github.com/BepInEx/BepInEx/releases)
 - [`Gravure_Plugin`](https://discord.com/channels/446784086539763712/993990510018568272/994947578678476800)
-
