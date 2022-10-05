@@ -29,7 +29,7 @@
 - [`XUnity.AutoTranslator-BepInEx-IL2CPP-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 ---
-**[Female & Male Uncensor Mod]**
+**[Female Uncensor Mod]**
 --
 - [`RoomGirl_Uncensor`](https://mega.nz/file/RJl1WYKZ#FSG8ZFWlJzMuuDA3VQwMktMNT5kPIyPqTwjP9kBP_Ic)
 
