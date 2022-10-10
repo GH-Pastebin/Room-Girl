@@ -20,7 +20,7 @@
 ---
 **[Latest Game Update]**
 --
-- [`roomgirl_02_plus1007p2ide_all`](https://mega.nz/file/oXAQDJgR#lActvDB59xHCCHv7JOogHrbbb31Oa2MuUWiwwhcO7Gs) - `(100/07/2022)`
+- [`roomgirl_02_plus1007p2ide_all`](https://mega.nz/file/oXAQDJgR#lActvDB59xHCCHv7JOogHrbbb31Oa2MuUWiwwhcO7Gs) - `(10/07/2022)`
 
 ---
 **[English Translation]**
