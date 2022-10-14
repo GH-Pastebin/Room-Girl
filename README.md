@@ -20,12 +20,12 @@
 ---
 **[Latest Game Update]**
 --
-- [`roomgirl_02_plus1014cs9rp_all`](https://mega.nz/file/1DRU3JAC#_onvU528VhCmCuKrKJzparRaskIZIbV0yvMnu4UYsSw) - `(10/14/2022)`
+- [`roomgirl_02_plus1014cs9rp_all`](https://dl.betterrepack.com/IllusionLib/RoomGirl/Update/roomgirl_02_plus1014cs9rp_all.exe) - `(10/14/2022)`
 
 ---
 **[Studio Update]**
 --
-- [`RoomGirl_Studio`](https://mega.nz/folder/oHZwnbxD#XCBJ2OQEVYproEwldggbvw)
+- [`Room_Studio`](https://dl.betterrepack.com/IllusionLib/RoomGirl/Studio/)
 
 ---
 **[English Translation]**
