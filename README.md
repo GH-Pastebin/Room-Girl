@@ -20,7 +20,7 @@
 ---
 **[Latest Game Update]**
 --
-- [`roomgirl_02_plus1028g3gk8_all`](https://dl.betterrepack.com/IllusionLib/RoomGirl/Update/roomgirl_02_plus1028g3gk8_all.exe) - `(10/28/2022)`
+- [`roomgirl_02_plus1111fd4q3_all`](https://dl.betterrepack.com/IllusionLib/RoomGirl/Update/roomgirl_02_plus1111fd4q3_all.exe) - `(11/11/2022)`
 
 ---
 **[Studio Update]**
