@@ -21,7 +21,7 @@
 **[Latest Game Update]**
 --
 - [`roomgirl_02_plus1111fd4q3_all`](https://dl.betterrepack.com/IllusionLib/RoomGirl/Update/roomgirl_02_plus0120mqq3_all.exe) - `(01/19/2023)`
-- [`roomgirl_pd_plus0428b4r`](https://dl.betterrepack.com/IllusionLib/RoomGirl%20Paradise/UPDATE/roomgirl_pd_plus0428b4r.exe) - `(04/28/2023)` PARADISE DLC REQUIRED
+- [`roomgirl_pd_plus0428b4r`](https://dl.betterrepack.com/IllusionLib/RoomGirl%20Paradise/UPDATE/roomgirl_pd_plus0428b4r.exe) - `(04/28/2023)` **[PARADISE DLC REQUIRED]**
 
 ---
 **[Studio Update]**
