@@ -45,3 +45,4 @@
 - [`BepInEx 6.0.0-Pre.1`](https://github.com/BepInEx/BepInEx/releases)
 - [`Gravure_Plugin`](https://discord.com/channels/446784086539763712/993990510018568272/994947578678476800)
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
+- [`Room Girl MaterialMod v0.2.0 Final`](https://github.com/SpockBauru/SpockPlugins_Illusion/releases/tag/r10)
